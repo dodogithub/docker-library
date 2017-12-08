@@ -1,4 +1,4 @@
-FROM gcr.io/google_containers/elasticsearch:v2.4.1-2
+FROM gcr.io/google_containers/elasticsearch:v5.5.1-1
 MAINTAINER Jason <piml.lui@gmail.com>
 
 
