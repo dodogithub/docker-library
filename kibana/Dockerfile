@@ -1,4 +1,4 @@
-FROM gcr.io/google_containers/kibana:v4.6.1-1
+FROM docker.elastic.co/kibana/kibana:5.5.1
 MAINTAINER Jason <piml.lui@gmail.com>
 
 
